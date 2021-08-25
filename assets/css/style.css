@@ -1,0 +1,17 @@
+.movie {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #EEE;
+  margin-bottom:1.5rem;
+}
+
+.movie img {
+  width: 100%;
+  object-fit: cover;
+  margin-bottom:1rem;
+}
+.title {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
